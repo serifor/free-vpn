@@ -8,10 +8,10 @@
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 
 ### 注册独立节点订阅  
-  注册链接：https://www.aoxiangyun.top/auth/register?code=hauyS6ox0I
+  注册链接：https://www.aoxiangyun.top/auth/register?code=hauyS6ox0I  
   新注册用户可以获得30天免费体验vip节点，免费节点不限时，不限速，不限量，购买1元套餐即可免费使用1年
   VIP套餐低至1元起，注册请使用上面注册链接，谢谢
-  备用网址：
+ ### 备用网址：
   www.aoxiangyun.com 
   www.aoxiangyun.win
 ## 分享 trojan  
