@@ -13,7 +13,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
   所有节点都支持解锁chatgpt，奈飞，tiktok，等等热门主流网站  
   VIP套餐低至1元起，注册请使用上面注册链接，谢谢  
  ### 备用网址：
-  www.aoxiangyun.top
+  www.aoxiangyun.top  
   www.aoxiangyun.com  
   www.aoxiangyun.win
 ## 分享 trojan  
